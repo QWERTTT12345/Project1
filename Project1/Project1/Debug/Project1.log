@@ -1,0 +1,6 @@
+﻿  qglist.cpp
+E:\C++\Project1\Project1\qglist.cpp(165,9): warning C4102: “defult”: 未引用的标签
+  qglist.h
+  正在生成代码...
+Debug\qglist.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project1.vcxproj -> E:\C++\Project1\Debug\Project1.exe
